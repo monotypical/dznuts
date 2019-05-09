@@ -1,0 +1,154 @@
+[
+  {
+    "backcolor": "#000000",
+    "name": "DzNuts",
+    "author": "Andy Hume",
+    "notes": "ESC acts like the grave key when held: [QMK docs]( https://github.com/qmk/qmk_firmware/blob/master/docs/feature_grave_esc.md/)\n\nLock key holds next key until tapped again: [QMK docs](https://beta.docs.qmk.fm/features/feature_key_lock)\n\n#Parts\n* Keycaps: [KBDFans GK64 2u lshift  set](https://www.aliexpress.com/item/kbdfans-new-arrival-pbt-keycaps-diy-mechanical-keyboard-gk64-keycaps-2u-shift-dz60/32840831830.html)\n* Switches: Kailh speed copper\n* PCB: DZ60\n* Stabilizers: GMK PCB mount",
+    "switchMount": "cherry",
+    "switchBrand": "kailh",
+    "switchType": "PG151101D49/D09",
+    "plate": true
+  },
+  [
+    {
+      "c": "#ff0000"
+    },
+    "ESC\n~\n\n\n\n\n`",
+    {
+      "c": "#cccccc",
+      "a": 0
+    },
+    "!\n1\n\n\nF1",
+    "@\n2\n\n\nF2",
+    "#\n3\n\n\nF3",
+    "$\n4\n£\n\nF4",
+    "%\n5\n\n\nF5",
+    "^\n6\n\n\nF6",
+    "&\n7\n\n\nF7",
+    "*\n8\n\n\nF8",
+    "(\n9\n\n\nF9",
+    ")\n0\n\n\nF10",
+    "_\n-\n\n\nF11",
+    "+\n=\n\n\nF12",
+    {
+      "w": 2
+    },
+    "Backspace\n\n\n\n<i class='fa fa-sun-o'></i>X"
+  ],
+  [
+    {
+      "a": 4,
+      "w": 1.5
+    },
+    "Tab",
+    {
+      "a": 0
+    },
+    "Q\n\n\n\n<i class='kb kb-Multimedia-Play-Pause'></i>",
+    "W\n\n\n\n<i class='kb kb-Multimedia-Mute-1'></i>",
+    "E\n\n\n\n<i class='kb kb-Multimedia-Volume-Down-1'></i>",
+    "R\n\n\n\n<i class='kb kb-Multimedia-Volume-Up-1'></i>",
+    {
+      "a": 4
+    },
+    "T",
+    "Y",
+    {
+      "a": 0
+    },
+    "U\n\n\n\nPrntScr",
+    "I\n\n\n\nScrLk",
+    "O\n\n\n\nPsBrk",
+    "P\n\n\n\n<i class='fa fa-sun-o'></i>-",
+    "{\n[\n\n\n<i class='fa fa-sun-o'></i>+",
+    "}\n]\n\n\n<i class='fa fa-sun-o'></i><i class='fa fa-refresh'></i>",
+    {
+      "w": 1.5
+    },
+    "|\n\\\n\n\n<i class='fa fa-sun-o'></i><i class='kb kb-Multimedia-FastForward-End'></i>"
+  ],
+  [
+    {
+      "a": 4,
+      "w": 1.75
+    },
+    "Caps Lock",
+    "A",
+    "S",
+    "D",
+    "F",
+    "G",
+    "H",
+    {
+      "a": 0
+    },
+    "J\n\n\n\nInsert",
+    "K\n\n\n\nHome",
+    "L\n\n\n\nPgUp",
+    ":\n;\n\n\n🤔",
+    "\"\n'\n\n\n<i class='fa fa-terminal'></i>",
+    {
+      "a": 4,
+      "w": 2.25
+    },
+    "Enter"
+  ],
+  [
+    {
+      "w": 2
+    },
+    "Shift",
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    "M",
+    {
+      "a": 0
+    },
+    "<\n,\n\n\nEnd",
+    ">\n.\n\n\nPgDwn",
+    {
+      "a": 4
+    },
+    "?\n/",
+    "Shift",
+    "<i class='kb kb-Arrows-Up'></i>",
+    {
+      "c": "#ff0000"
+    },
+    "<i class='fa fa-trash-o'></i>"
+  ],
+  [
+    {
+      "c": "#cccccc",
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "a": 0,
+      "w": 1.25
+    },
+    "Win\n\n\n\n<i class='kb kb-Unicode-Lock-Closed-1'></i>",
+    {
+      "a": 4,
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "a": 7,
+      "w": 6.25
+    },
+    "",
+    {
+      "a": 4
+    },
+    "Ctrl",
+    "Fn",
+    "<i class='kb kb-Arrows-Left'></i>",
+    "<i class='kb kb-Arrows-Down'></i>",
+    "<i class='kb kb-Arrows-Right'></i>"
+  ]
+]
