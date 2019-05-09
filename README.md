@@ -12,3 +12,6 @@ To flash this firmware, clone [QMK_firmware](https://github.com/qmk/qmk_firmware
 * Switches: Kailh speed copper
 * PCB: [KBDFans DZ60](https://www.aliexpress.com/item/DZ60-Custom-mechanical-keyboard-PCB-60-keyboard-support-arrow-key/32824638057.html)
 * Stabilizers: GMK PCB mount
+
+# Viewing changes to the layout
+To change the layout, make changes at [keyboard-layout-editor.com](http://www.keyboard-layout-editor.com/#/gists/14fe6c21a671fab9978bb9f6b1bdf1d0) and edit `keymap.c` and `rules.mk` as appropriate
